@@ -7,4 +7,6 @@ Front-end webpage using Bootstrap and CSS to display some local attractions.
 Software languages used :
 * Html5
 * Css
+
+Framework:
 * Bootstrap
